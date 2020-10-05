@@ -1,5 +1,6 @@
 package com.meritamerica.assignment1;
 
+//Created by Behulum W
 public class CheckingAccount {
 
 	private double cBalance;
@@ -61,6 +62,7 @@ public class CheckingAccount {
 		
 	}
 
+	//Created by Behulum W
 	public String toString() {
 		
 		return ("Checking Account Balance: $" + getBalance() + "\n" + "Checking Account Interest Rate: "
